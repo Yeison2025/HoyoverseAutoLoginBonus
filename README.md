@@ -8,7 +8,7 @@ import GenshinWrapper
 
 USER_AGENT = "Enter User-Agent Here!"
 COOKIES = "Enter Your Account Cookies Here!"
-wrapper = GenshinWrapper()
+wrapper = GenshinWrapper(user_agent=USER_AGENT, cookies=COOKIES)
 print(asyncio.run(wrapper.claim_daily_bonus()))
 ```
 
