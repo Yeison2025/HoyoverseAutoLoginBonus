@@ -1,5 +1,5 @@
 # HoyoverseAutoLoginBonus
-The repository can automate claiming of the hoyoverse login bonus.
+The repository can automate claiming of the hoyoverse login bonus. <br>
 It can claim the daily login bonus of Honkai Star Rail and Genshin Impact.
 
 # Usage
