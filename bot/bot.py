@@ -1,7 +1,5 @@
-import requests
 import disnake
 from disnake.ext import commands
-import os
 
 TOKEN = "TOKEN"
 intents = disnake.Intents.all()
