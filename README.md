@@ -4,6 +4,7 @@ It can claim the daily login bonus of Honkai Star Rail and Genshin Impact.
 
 # Usage
 ```
+import asyncio
 import GenshinWrapper
 
 USER_AGENT = "Enter User-Agent Here!"
